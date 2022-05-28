@@ -1,0 +1,6 @@
+<?kml version="1.0"?>
+<project name="hello world"default="info">
+	<target name="info">
+		<echo>hello world-welcome to ant </echo>
+	</target>
+	</project>
